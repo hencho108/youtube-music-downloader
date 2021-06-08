@@ -12,7 +12,6 @@ download_options = {
                 'key': 'FFmpegExtractAudio',
                 'preferredcodec': 'mp3',
                 'preferredquality': '192',
-
         }],
 }
 
